@@ -12,4 +12,4 @@ Projecte de l'assignatura [PROP](https://www.fib.upc.edu/estudis/graus/grau-en-e
 - [Joan Caballero Castro](https://github.com/JoanK11)
 - [Jeremy Comino Raigón](https://github.com/InfinitGamer)
 - [Marc Gonzalez Vidal](https://github.com/Gonsa02)
-- Oriol Miró López-Feliu
+- [Oriol Miró López-Feliu](https://github.com/oriolmirolf)
