@@ -1,4 +1,4 @@
-# PROP - Projecte de Programació
+# PROP - Projectes de Programació
 Projecte de l'assignatura [PROP](https://www.fib.upc.edu/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/PROP) de la [Facultat d'Informàtica de Barcelona](https://www.fib.upc.edu/ca).
 
 ## Avaluació
